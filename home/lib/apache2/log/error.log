@@ -1,0 +1,74 @@
+[Fri May 10 03:49:55.523005 2019] [mpm_prefork:notice] [pid 4333] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri May 10 03:49:55.523103 2019] [core:notice] [pid 4333] AH00094: Command line: 'apache2'
+[Fri May 10 03:49:55.727925 2019] [core:info] [pid 4354] [client 10.240.0.68:45166] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Fri May 10 03:50:03.540531 2019] [core:info] [pid 4358] [client 10.240.0.233:44726] AH00128: File does not exist: /home/ubuntu/workspace/img/kinshiplogo, referer: https://final-project-mjswift.c9users.io/index.html
+[Fri May 10 03:50:20.326379 2019] [core:info] [pid 4354] [client 10.240.0.233:44874] AH00128: File does not exist: /home/ubuntu/workspace/img/kinshiplogo, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 00:54:56.676972 2019] [core:warn] [pid 2860] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 12 00:54:56.682327 2019] [mpm_prefork:notice] [pid 2860] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun May 12 00:54:56.682372 2019] [core:notice] [pid 2860] AH00094: Command line: 'apache2'
+[Sun May 12 00:55:05.763739 2019] [core:info] [pid 2874] [client 10.240.0.207:57582] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 01:14:10.573969 2019] [core:info] [pid 2871] [client 10.240.1.78:45382] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 01:30:25.053067 2019] [core:info] [pid 2876] [client 10.240.0.207:46816] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 01:31:16.527556 2019] [core:info] [pid 2873] [client 10.240.1.78:54000] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 02:26:53.771276 2019] [core:info] [pid 2872] [client 10.240.0.233:45934] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 02:55:52.244006 2019] [core:info] [pid 2874] [client 10.240.0.171:35074] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 22:42:44.896219 2019] [mpm_prefork:notice] [pid 2860] AH00169: caught SIGTERM, shutting down
+[Sun May 12 22:44:38.409080 2019] [mpm_prefork:notice] [pid 6027] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun May 12 22:44:38.409207 2019] [core:notice] [pid 6027] AH00094: Command line: 'apache2'
+[Sun May 12 22:44:44.892821 2019] [core:info] [pid 6038] [client 10.240.1.78:53218] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Sun May 12 22:50:52.339105 2019] [mpm_prefork:notice] [pid 6027] AH00169: caught SIGTERM, shutting down
+[Sun May 12 22:51:06.874443 2019] [mpm_prefork:notice] [pid 6572] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun May 12 22:51:06.874549 2019] [core:notice] [pid 6572] AH00094: Command line: 'apache2'
+[Mon May 13 00:22:55.447784 2019] [core:info] [pid 6580] [client 10.240.0.207:40038] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Mon May 13 00:23:29.093292 2019] [core:info] [pid 6685] [client 10.240.0.233:36612] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Tue May 14 03:40:39.441388 2019] [core:warn] [pid 2721] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 14 03:40:39.445924 2019] [mpm_prefork:notice] [pid 2721] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 14 03:40:39.445982 2019] [core:notice] [pid 2721] AH00094: Command line: 'apache2'
+[Tue May 14 03:40:46.105233 2019] [core:info] [pid 2737] [client 10.240.1.10:42978] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Tue May 14 04:36:04.531942 2019] [core:info] [pid 2738] [client 10.240.0.231:41028] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Wed May 15 01:04:07.196296 2019] [mpm_prefork:notice] [pid 2721] AH00169: caught SIGTERM, shutting down
+[Wed May 15 01:12:21.012298 2019] [mpm_prefork:notice] [pid 4735] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed May 15 01:12:21.012478 2019] [core:notice] [pid 4735] AH00094: Command line: 'apache2'
+[Wed May 15 01:12:26.103751 2019] [core:info] [pid 4745] [client 10.240.0.249:45766] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Wed May 15 01:47:56.238137 2019] [core:info] [pid 4743] [client 10.240.1.60:57130] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Wed May 15 02:57:36.972185 2019] [core:info] [pid 4744] [client 10.240.1.10:59036] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 02:58:10.892055 2019] [core:info] [pid 4745] [client 10.240.1.10:59500] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 02:58:25.905861 2019] [core:info] [pid 4742] [client 10.240.1.10:59702] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 03:01:50.466390 2019] [core:info] [pid 4744] [client 10.240.0.249:45202] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 03:02:26.006295 2019] [core:info] [pid 4745] [client 10.240.0.68:45732] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 03:06:41.606467 2019] [core:info] [pid 4745] [client 10.240.1.60:39894] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 03:07:45.825763 2019] [core:info] [pid 4742] [client 10.240.0.207:39412] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 03:10:58.833584 2019] [core:info] [pid 4745] [client 10.240.2.147:39922] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 03:16:30.164783 2019] [core:info] [pid 4743] [client 10.240.0.118:54644] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Wed May 15 18:36:52.798100 2019] [mpm_prefork:notice] [pid 4735] AH00169: caught SIGTERM, shutting down
+[Wed May 15 18:37:00.322913 2019] [mpm_prefork:notice] [pid 8845] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed May 15 18:37:00.322993 2019] [core:notice] [pid 8845] AH00094: Command line: 'apache2'
+[Wed May 15 18:37:06.077324 2019] [core:info] [pid 8856] [client 10.240.0.207:58992] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Thu May 16 00:33:57.195891 2019] [core:info] [pid 8853] [client 10.240.1.60:57826] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Thu May 16 03:56:33.975380 2019] [core:info] [pid 8854] [client 10.240.0.249:55736] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Thu May 16 03:56:55.093751 2019] [core:info] [pid 8854] [client 10.240.0.171:53370] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/about.html
+[Thu May 16 04:24:57.827062 2019] [core:info] [pid 8856] [client 10.240.1.10:51674] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:25:31.840819 2019] [core:info] [pid 8854] [client 10.240.1.60:44674] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:26:14.025692 2019] [core:info] [pid 8854] [client 10.240.0.207:58198] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:28:07.576941 2019] [core:info] [pid 8854] [client 10.240.1.60:45858] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:34:30.884512 2019] [core:info] [pid 8854] [client 10.240.0.118:35870] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:36:17.730941 2019] [core:info] [pid 8856] [client 10.240.0.71:50366] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:37:52.464079 2019] [core:info] [pid 8854] [client 10.240.1.60:49938] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:38:55.298435 2019] [core:info] [pid 8852] [client 10.240.0.249:45832] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:40:52.087582 2019] [core:info] [pid 8856] [client 10.240.0.71:53264] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:41:21.511958 2019] [core:info] [pid 8854] [client 10.240.0.118:39390] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 04:45:31.196564 2019] [core:info] [pid 8852] [client 10.240.0.71:55830] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 05:04:20.052920 2019] [core:info] [pid 8855] [client 10.240.0.71:38384] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 05:04:43.008687 2019] [core:info] [pid 12314] [client 10.240.1.78:33840] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 05:04:58.006757 2019] [core:info] [pid 8853] [client 10.240.0.71:38834] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 05:06:13.083030 2019] [core:info] [pid 8856] [client 10.240.0.71:39580] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Thu May 16 05:22:26.561359 2019] [mpm_prefork:notice] [pid 8845] AH00169: caught SIGTERM, shutting down
+[Thu May 16 05:22:30.414081 2019] [mpm_prefork:notice] [pid 13924] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 05:22:30.414196 2019] [core:notice] [pid 13924] AH00094: Command line: 'apache2'
+[Fri May 17 01:36:20.417967 2019] [core:info] [pid 13933] [client 10.240.1.60:59362] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/index.html
+[Fri May 17 01:38:04.770423 2019] [core:info] [pid 13931] [client 10.240.0.231:48950] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Fri May 17 01:45:57.765414 2019] [core:info] [pid 13937] [client 10.240.0.231:54304] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Fri May 17 01:46:59.945580 2019] [core:info] [pid 13932] [client 10.240.0.249:59262] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://final-project-mjswift.c9users.io/contact.html
+[Fri May 17 01:59:34.725200 2019] [mpm_prefork:notice] [pid 13924] AH00169: caught SIGTERM, shutting down
+[Fri May 17 01:59:38.104792 2019] [mpm_prefork:notice] [pid 17587] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri May 17 01:59:38.104878 2019] [core:notice] [pid 17587] AH00094: Command line: 'apache2'

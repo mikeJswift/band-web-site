@@ -1,0 +1,12 @@
+{
+  "name": "final_project",
+  "id": "6901036",
+  "description": "Final Project for HTML/CSS class/Band Page",
+  "gitUrl": "",
+  "workspaceType": "html5",
+  "dockerBaseImage": "cloud9/ws-html5:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "mjswift",
+    "id": "4571181"
+  }
+}
